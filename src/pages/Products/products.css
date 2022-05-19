@@ -8,7 +8,7 @@
     justify-content: space-between;
 }
 .productAddButton{
-    width: 80px;
+    width: 100px;
     border: none;
     padding: 5px;
     background-color: teal;
@@ -91,7 +91,8 @@
     align-items: center;
 }
 .productUploadImg{
-    height: 100px;width: 100px;
+    height: 100px;
+    width: 100px;
     object-fit: cover;
     border-radius: 10px;
     margin-right: 20px;
